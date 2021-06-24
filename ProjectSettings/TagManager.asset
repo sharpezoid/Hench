@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: RearWall
+    uniqueID: 1688639083
+    locked: 0
+  - name: MidWall
+    uniqueID: 2517596713
+    locked: 0
+  - name: Floor
+    uniqueID: 3832467773
+    locked: 0
+  - name: Rear Object
+    uniqueID: 220779439
+    locked: 0
+  - name: RearDoor
+    uniqueID: 1867581079
+    locked: 0
+  - name: Mid Object
+    uniqueID: 3340526887
+    locked: 0
+  - name: FrontDoor
+    uniqueID: 2621210953
+    locked: 0
+  - name: Front Object
+    uniqueID: 1560332125
+    locked: 0
+  - name: FrontWall
+    uniqueID: 3379591449
+    locked: 0
+  - name: Text
+    uniqueID: 3423623761
+    locked: 0
